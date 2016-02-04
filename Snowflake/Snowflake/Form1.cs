@@ -22,7 +22,7 @@ namespace Snowflake
 
         private void Form1_Load(object sender, EventArgs e)
         {
-
+            this.Text = "Snowflake v1";
             // use it to generate possible IOS images at 512x512
 
             pbxDisplay2.Width = 512;
