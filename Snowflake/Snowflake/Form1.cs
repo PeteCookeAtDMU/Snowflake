@@ -28,8 +28,8 @@ namespace Snowflake
             pbxDisplay2.Width = 512;
             pbxDisplay2.Height = 512;
 
-            pbxForegroundColour.BackColor = Color.Orange;
-            pbxBackgroundColour.BackColor = Color.DarkBlue;
+            pbxForegroundColour.BackColor = Color.White;
+            pbxBackgroundColour.BackColor = Color.Black;
 
 
             Recreate();
