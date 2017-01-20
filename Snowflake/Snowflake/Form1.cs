@@ -141,7 +141,7 @@ namespace Snowflake
 
             if (dr == System.Windows.Forms.DialogResult.OK)
             {
-                // this could fail so we need a try catch block around it
+                // this could fail so we need a try catch   block around it
 
 
                 try
